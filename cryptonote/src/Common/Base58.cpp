@@ -9,7 +9,7 @@
 #include <string>
 #include <vector>
 
-#include "hash.h"
+#include "crypto/hash.h"
 #include "int-util.h"
 #include "Varint.h"
 
