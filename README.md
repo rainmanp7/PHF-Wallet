@@ -1,2 +1,2 @@
-# XDN-Wallet
-XDN Digital Note
+# PHF-GUI-Wallet
+PHFirecoin
