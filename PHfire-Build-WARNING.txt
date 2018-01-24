@@ -1,0 +1,18 @@
+﻿## Coin Name = PHfirecoin Wallet
+## Based and forked from the great people
+## at Ducknote/Darknote/Digital Note.
+## Testing Deamon & Simple-Wallet
+
+Do not use this at this time.
+
+FOR TESTING PURPOSES ONLY!
+
+This will be updated as the project moves forward. For now it's a work in progress.
+
+The reconstruction of this wallet was finalized on 01/23/2018 12:02am deep in the morning on a Tuesday.
+By: Chris W. Brown aka rainmanp7.
+
+This area is heavily edited ,and has been extremely updated. The files here are in works of being tested at this time and may not completely work properly.
+Please only use the code here as a guideline at this time 01/23/2018.
+Until this folder and files change and this text is updated and or removed...
+This text is a placeholder and warning.
