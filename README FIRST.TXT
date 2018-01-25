@@ -16,5 +16,7 @@ Current = TEST PHASE 1.
 Current issue is the final executable. permission issues on build cause the final to become a bit difficult to understand.
 Possibly a fix will be in order. It does come up and things seem viewable. Operational parts will be tested and reviewed for working capabilities.
 
+You can start a test net locally and fire up one deamon and one gui wallet and it will sync up :-)
+
  The current build will fail at the end becasue of wrapper ?
  then allot of errors are thrown about things undefined.
