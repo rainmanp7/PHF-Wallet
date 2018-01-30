@@ -5,7 +5,6 @@ include(QREncode.cmake)
 
 project(${CN_PROJECT_NAME})
 
-
 if (POLICY CMP0071)
 cmake_policy(SET CMP0071 NEW)
 endif()
@@ -175,8 +174,7 @@ set(CRYPTONOTE_SOURCES
   cryptonote/src/Logging/LoggerRef.cpp
   cryptonote/src/BlockchainExplorer/BlockchainExplorer.cpp
   cryptonote/src/BlockchainExplorer/BlockchainExplorerDataBuilder.cpp
-  cryptonote/src/BlockchainExplorer/BlockchainExplorerErrors.cpp
-)
+  cryptonote/src/BlockchainExplorer/BlockchainExplorerErrors.cpp)
 
 file(GLOB_RECURSE SOURCES src/*.cpp)
 file(GLOB_RECURSE HEADERS src/*.h)
@@ -186,7 +184,6 @@ set(QRC src/resources.qrc)
 
 qt5_wrap_ui(UIS ${FORMS})
 qt5_add_resources(RCC ${QRC})
-
 
 if (WIN32)
   if (NOT MSVC)
