@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+﻿cmake_minimum_required(VERSION 3.10.2)
 
 include(CryptoNoteWallet.cmake)
 include(QREncode.cmake)
